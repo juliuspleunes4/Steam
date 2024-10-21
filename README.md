@@ -14,7 +14,7 @@ De applicatie heeft als doel gebruikers inzicht te geven in het gedrag van hun v
 ## Functionaliteiten
 De volgende functionaliteiten zijn opgenomen in deze eerste versie (Sprint 1):
 - Een grafisch dashboard (GUI) dat de basisgegevens van Steam-gebruikers toont.
-- Inladen van een dataset met Steam-gebruikersinformatie, zoals vriendenlijsten en gespeelde games.
+- Inladen van een dataset met Steam-gebruikersinformatie, zoals aantal vrienden, aantal vrienden die online zijn
 - Basiscommunicatie met de Raspberry Pi Pico W, die in latere sprints verder wordt uitgebreid.
 
 ## Rollenverdeling
