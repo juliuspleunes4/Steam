@@ -3,7 +3,7 @@ import os
 import tkinter as tk
 import requests
 
-# API key moet nog worden aangepast
+# momenteel heeft het nog een vast api key. Later willen we implementeren dat je een api key kan invoeren en dan haalt hij het op
 load_dotenv()
 API_KEY = os.getenv('STEAM_API_KEY')  # laadt de API key vanuit de .env bestand
 
